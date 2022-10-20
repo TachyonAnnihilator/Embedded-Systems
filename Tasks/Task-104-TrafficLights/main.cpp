@@ -29,9 +29,6 @@ int main()
 
     while (true)
     {
-        red = !red;
-        amber = !amber;
-        green = !green;
-        wait_us(WAIT_TIME_MS * 1000);
+       
     }
 }
